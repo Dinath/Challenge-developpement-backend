@@ -1,4 +1,4 @@
-package routes.admin;
+package routes;
 
 import java.sql.SQLException;
 import java.util.List;
